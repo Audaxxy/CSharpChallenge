@@ -1,0 +1,13 @@
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\bin\Release\netcoreapp3.1\CSharpChallenge.exe
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\bin\Release\netcoreapp3.1\CSharpChallenge.deps.json
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\bin\Release\netcoreapp3.1\CSharpChallenge.runtimeconfig.json
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\bin\Release\netcoreapp3.1\CSharpChallenge.runtimeconfig.dev.json
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\bin\Release\netcoreapp3.1\CSharpChallenge.dll
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\bin\Release\netcoreapp3.1\CSharpChallenge.pdb
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.AssemblyInfo.cs
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.dll
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.pdb
+C:\Users\natha\Documents\UkenGamesTest\CSharpChallenge\CSharpChallenge\obj\Release\netcoreapp3.1\CSharpChallenge.genruntimeconfig.cache
